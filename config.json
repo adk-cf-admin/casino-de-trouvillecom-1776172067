@@ -1,0 +1,206 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#000000",
+            "lang-select-color": "#222829",
+            "bg-light": "#000000",
+            "welcome-bonus-bg": "#000000",
+            "top-games-hover-fg": "#deeadf",
+            "main-bg": "#23221f",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#000000",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#FAA500",
+            "yellow": "#473d39",
+            "yellow-button": "#FAA500",
+            "button-text": "#ffffff",
+            "main-button-text": "#000000",
+            "border-color": "#efefdc",
+            "casino-cards": "#0d0d0d",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "providers-back": "#000000",
+            "faq-label": "#000000",
+            "bg-footer": "#000000",
+            "copyright": "#e7e7d5",
+            "starColor": "#FAA500",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6156"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6158",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino de trouville"
+        },
+        "nav": {
+            "signUp": "S’inscrire",
+            "playNow": "Jouer maintenant"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6159",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino de trouville"
+        }
+    },
+    "pages": [
+        {
+            "id": "fr-fr-fr-FR",
+            "path": "\/",
+            "name": "Французский",
+            "languageCode": "fr",
+            "regionCode": "FR",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Casino de trouville",
+                    "title": "Avis sur le Casino de Trouville : jeux, restauration, fidélité et informations pratiques pour les visiteurs",
+                    "description": "Découvrez notre avis sur le Casino de Trouville avec des informations vérifiées sur les jeux, la restauration, le programme de fidélité, Barrière Play, les paiements et des conseils pratiques pour les visiteurs.",
+                    "canonical": "casino-de-trouville.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6161",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casino-de-trouville.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6160"
+                },
+                "hero": {
+                    "title": "Avis sur le Casino de Trouville : jeux, restaurants, divertissements et expérience en bord de mer",
+                    "textDesktop": "Offre de bienvenue exclusive de",
+                    "textMobile": "Offre de bienvenue exclusive de",
+                    "playGame": "Lancer la partie",
+                    "claimBonus": "Réclamer le bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6162",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6163",
+                    "mobileImageSizeModifier": -2,
+                    "mobileImageYModifier": 2,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Activer le bonus",
+                    "title": "Top casinos",
+                    "allCasino": "Tous les casinos",
+                    "welcomeBonusText": "Bonus de bienvenue"
+                },
+                "bonusDetails": {
+                    "title": "Détails du bonus",
+                    "getBonusButtonText": "Obtenir le bonus",
+                    "maximumAmountText": "Montant maximum",
+                    "wagerText": "",
+                    "bonusCodeText": "Code promo",
+                    "casino": "Casino",
+                    "bonuses": "Bonus",
+                    "rate": "Note",
+                    "freeSpins": "Tours gratuits",
+                    "moreInfo": "Plus d'infos",
+                    "get": "Obtenir",
+                    "refresh": "Actualiser"
+                },
+                "advantages": {
+                    "title": "Avantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Emplacement en bord de mer entre plage et port",
+                        "210 machines à sous aux styles variés",
+                        "Jeux de table classiques et électroniques",
+                        "Restaurant sur place avec terrasse vue mer",
+                        "Avantages exclusifs avec Le Carré VIP"
+                    ],
+                    "advantagesAfterText": "",
+                    "knowMore": "En savoir plus",
+                    "appTitle": "Application du Casino Barrière Trouville",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6164",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Casino Barrière Trouville",
+                    "mobileGooglePlayImageTitle": "Casino Barrière Trouville",
+                    "mobileIosImageTitle": "Casino Barrière Trouville"
+                },
+                "games": {
+                    "playNowText": "Jouer maintenant",
+                    "title": "Jeux populaires",
+                    "allGames": "Tous les jeux"
+                },
+                "about": {
+                    "history": {
+                        "title": "Casino Barrière Trouville",
+                        "description1": "",
+                        "items": [
+                            "Emplacement premium en bord de mer, entre le port et la plage, idéal pour une sortie loisirs et divertissement.",
+                            "Offre de jeux variée, avec machines à sous, jeux de table classiques et versions électroniques.",
+                            "Expérience complète sur place, avec restaurant, terrasse vue mer, animations et avantages fidélité."
+                        ],
+                        "description2": "Pour tous ceux qui recherchent casino de trouville, il s’agit de Casino Barrière Trouville, notre casino terrestre situé à Trouville-sur-Mer, sur la Place du Maréchal Foch, entre le port de pêche et la plage. Notre positionnement va bien au-delà d’une simple salle de jeux : nous réunissons des machines à sous, des jeux de table classiques, des jeux de table électroniques, un restaurant, des spectacles et des espaces événementiels. C’est ce qui fait de notre établissement une véritable destination de divertissement en bord de mer, plutôt qu’un simple lieu dédié au jeu.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6175",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": ""
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "À propos du Casino Barrière Trouville",
+                        "description": "<p>Le Casino Barrière Trouville est notre casino terrestre emblématique à Trouville-sur-Mer, situé directement place du Maréchal Foch, entre le port de pêche et la plage. Nous sommes connus non seulement comme un espace de jeu, mais aussi comme un véritable lieu d’attraction sur la côte normande : on y retrouve à la fois une architecture historique, l’atmosphère d’une station balnéaire et une offre de divertissement au format moderne. Le bâtiment actuel a été conçu par l’architecte Alexandre Durville en 1912, et le site est officiellement devenu le Casino Barrière Trouville en 1992.<\/p> <br> <p>Notre espace de jeu s’adresse à différents styles de jeu et à différents niveaux de bankroll. Selon l’office de tourisme de Trouville, nous proposons 210 machines à sous, et sur certaines d’entre elles, les mises commencent à 0,01 €, ce qui rend le casino adapté aussi bien à une session de divertissement légère qu’à une visite de jeu plus longue. Pour les clients qui préfèrent les formats classiques, nous proposons le blackjack, la roulette anglaise, l’Ultimate Poker et la Boule ; pour les amateurs d’un rythme plus dynamique, nous disposons également de roulette anglaise électronique et de blackjack électronique.<\/p> <br> <p>Les divertissements au Casino Barrière Trouville ne se limitent pas au jeu. Le restaurant La Villatara accueille les visiteurs avec une cuisine française mettant l’accent sur les produits de saison, les sushis et les produits de la mer, et d’avril à octobre, les clients peuvent profiter de la terrasse avec vue sur la mer. D’après l’office de tourisme, le restaurant accueille les clients tous les jours, et le samedi, des soirées live music y sont organisées, ce qui rend la visite du casino particulièrement attrayante pour ceux qui souhaitent combiner jeu, dîner et sortie atmosphérique en ville.<\/p> <br> <p>Notre casino fonctionne également comme un espace dédié aux événements et aux soirées. Le Salon des Gouverneurs est utilisé pour des dîners-spectacles, des lotos ainsi que des événements privés ou professionnels ; l’office de tourisme de Trouville indique une capacité pouvant aller jusqu’à 300 personnes. Ainsi, le Casino Barrière Trouville n’est pas perçu simplement comme un casino, mais comme un véritable lieu de détente, de rencontres et de soirées festives sur la côte. Dans l’écosystème plus large de Barrière à Deauville, les offres spa et le Golf Barrière Deauville renforcent également l’attractivité de la destination pour les week-ends et les courts séjours premium.<\/p> <br> <h3><strong>Règles de visite du Casino Barrière Trouville<\/strong><\/h3> <br> <p>Le Casino Barrière Trouville n’accueille que des clients majeurs. Pour entrer, il est nécessaire de présenter un original valide d’une pièce d’identité, et l’accès est réservé uniquement aux visiteurs qui ne font pas l’objet d’une interdiction de jeux. Ces conditions sont indiquées à la fois sur la page officielle du casino et sur celle du restaurant La Villatara.<\/p> <br> <p>Sur la page officielle du casino, un statut d’ouverture en temps réel est affiché au lieu d’un horaire fixe et statique ; il est donc préférable de vérifier l’heure exacte de fermeture juste avant la visite. Le site officiel indique néanmoins une ouverture du casino à 09h30, tandis que le restaurant La Villatara fonctionne selon un service de déjeuner et de dîner. L’accessibilité pour les personnes à mobilité réduite est également annoncée.<\/p> <br> <p>En ce qui concerne l’infrastructure de paiement, la page de La Villatara mentionne Carte Bleue, Visa, Mastercard, Apple Pay, ainsi que les titres-restaurant pour la partie restauration. En revanche, pour les caisses de jeu, les règles détaillées concernant les modes de paiement, les modalités de retrait et les limites ne sont pas précisées dans les sources ouvertes ; il est donc raisonnable de vérifier ce point directement sur place.<\/p> <br>\n <h3><strong>Le Carré VIP et Barrière Play : le programme de fidélité du Casino Barrière Trouville<\/strong><\/h3>\n <br> <p>Notre programme de fidélité s’articule autour de Le Carré VIP, qui donne accès à des privilèges, des offres spéciales, des invitations à des événements privés et des avantages personnalisés dans l’écosystème des casinos Barrière. La page officielle du programme mentionne les niveaux Blanc, Argent, Or et Noir, et les pages promotionnelles du Casino Barrière Trouville confirment en plus que la carte Le Carré VIP est délivrée gratuitement sur demande.<\/p> <br> <p>Le prolongement numérique du programme est Barrière Play. Les pages officielles de Barrière présentent l’application comme un outil permettant une expérience de casino plus fluide et plus connectée : elle donne accès à une carte dématérialisée, à une entrée simplifiée, à un wallet pour payer et utiliser ses avantages, à la réservation d’une table au restaurant, au suivi des actualités du casino et à des contenus tutoriels liés au jeu. Pour la première connexion aux machines à sous et aux tables électroniques, un welcome credit de 3 100 points est également annoncé, soit l’équivalent de 5 €.<\/p> <br> <p>Pour le Casino Barrière Trouville, cet écosystème n’est pas seulement théorique, il a une vraie utilité pratique : sur la page officielle du casino et dans les supports promotionnels récents, des multipliers sur les reward points pour les machines à sous et les electronic table games sont régulièrement mentionnés. Cela montre que le programme de fidélité est réellement intégré à l’expérience de jeu et pensé pour les clients réguliers. Cela rend notre casino particulièrement attractif pour ceux qui prévoient de venir plus d’une fois et d’intégrer leurs visites dans un programme de loisirs plus large entre Trouville et Deauville.<\/p>\n<h2 style=\"margin:0 0 12px 0;\">Informations clés sur le Casino Barrière Trouville<\/h2>\n<br>\n<div style=\"width:100%; max-width:100%; overflow:hidden;\">\n  <table style=\"width:100%; max-width:100%; border-collapse:collapse; table-layout:fixed; line-height:1.35;\">\n    <thead>\n      <tr>\n        <th style=\"border:1px solid #d9d9d9; padding:8px 6px; text-align:left; width:24%; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Catégorie<\/th>\n        <th style=\"border:1px solid #d9d9d9; padding:8px 6px; text-align:left;width:46%; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Informations vérifiées<\/th>\n        <th style=\"border:1px solid #d9d9d9; padding:8px 6px; text-align:left; width:30%; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Valeur pratique<\/th>\n      <\/tr>\n    <\/thead>\n    <tbody>\n      <tr>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Nom officiel<\/td>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Casino Barrière Trouville<\/td>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Correspond à la marque principale recherchée sous “casino de trouville”.<\/td>\n      <\/tr>\n      <tr>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Adresse<\/td>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Place du Maréchal Foch, 14360 Trouville-sur-Mer, France<\/td>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Utile pour le SEO local et pour préparer la visite.<\/td>\n      <\/tr>\n      <tr>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Horaires du casino<\/td>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Horaires publiés par l’office de tourisme pour 2025 : lun.–jeu. et dim. 09:30–02:00, ven. 09:30–03:00, sam. 09:30–04:00. Le site officiel affiche aussi un statut d’ouverture en direct.<\/td>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Le lecteur dispose à la fois des horaires publiés et de la mention du statut en temps réel.<\/td>\n      <\/tr>\n      <tr>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Bâtiment et patrimoine<\/td>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Le bâtiment actuel a été conçu par Alexandre Durville en 1912 ; l’établissement est officiellement devenu Casino Barrière Trouville en 1992.<\/td>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Ajoute une forte valeur patrimoniale et renforce l’attrait destination.<\/td>\n      <\/tr>\n      <tr>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Machines de jeu<\/td>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">210 machines à sous recensées par l’office de tourisme de Trouville ; l’offre comprend des formats classiques, modernes et du vidéo poker.<\/td>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Grande variété pour les sessions récréatives comme pour un jeu plus prolongé.<\/td>\n      <\/tr>\n      <tr>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Jeux de table<\/td>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Blackjack, roulette anglaise, Ultimate Poker et La Boule sont indiqués.<\/td>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Un bon choix pour les joueurs qui recherchent davantage de contrôle et un rythme classique.<\/td>\n      <\/tr>\n      <tr>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Jeux électroniques<\/td>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Roulette anglaise électronique et blackjack électronique disponibles.<\/td>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Une solution intermédiaire pratique entre l’ambiance des tables en direct et un jeu plus rapide.<\/td>\n      <\/tr>\n      <tr>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Restaurant<\/td>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">La Villatara. La page officielle indique actuellement un service de 12:00 à 14:00 et de 19:30 à 22:00, avec une terrasse vue mer ouverte d’avril à octobre selon la météo.<\/td>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Soutient le positionnement dîner + casino et les soirées prolongées.<\/td>\n      <\/tr>\n      <tr>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Bars et équipements<\/td>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">L’office de tourisme mentionne un bar, un restaurant, des toilettes et des vestiaires sur place.<\/td>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Montre que l’établissement fonctionne comme une destination de loisirs complète, et pas seulement comme une salle de jeux.<\/td>\n      <\/tr>\n      <tr>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Programme de fidélité<\/td>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Le Carré VIP avec les statuts Blanc, Argent, Or et Noir. Les pages promotionnelles de Trouville indiquent qu’une carte gratuite peut être demandée.<\/td>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Utile pour la fidélisation, les visites répétées et les offres réservées aux membres.<\/td>\n      <\/tr>\n      <tr>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Application mobile<\/td>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Barrière Play propose une carte dématérialisée, un accès simplifié, un wallet, des outils de réservation pour le restaurant et un crédit de bienvenue de 3 100 points lors du premier appairage aux machines à sous et aux jeux de table électroniques.<\/td>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Renforce l’expérience connectée sur place pour les visiteurs réguliers.<\/td>\n      <\/tr>\n      <tr>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Conditions d’accès<\/td>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">L’entrée est réservée aux adultes munis d’une pièce d’identité originale et valide, et non soumis à une interdiction de jeu.<\/td>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Information pratique essentielle pour les visiteurs qui viennent pour la première fois.<\/td>\n      <\/tr>\n      <tr>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Accessibilité<\/td>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">L’accès PMR est indiqué sur la page officielle du restaurant ainsi que sur la fiche de l’office de tourisme.<\/td>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Utile pour planifier une visite en tenant compte des besoins d’accessibilité.<\/td>\n      <\/tr>\n      <tr>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Événements et espaces privés<\/td>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Le Salon des Gouverneurs est présenté comme un espace pour réunions et événements ; l’office de tourisme mentionne une capacité allant jusqu’à 300 personnes en format cocktail et 250 en format théâtre.<\/td>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Élargit le profil du casino vers le divertissement, la vie nocturne et l’événementiel professionnel.<\/td>\n      <\/tr>\n      <tr>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Contact<\/td>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Téléphone : +33 2 31 87 75 00 | E-mail : accueil-trouville@groupebarriere.com<\/td>\n        <td style=\"border:1px solid #d9d9d9; padding:8px 6px; vertical-align:top; overflow-wrap:anywhere; word-break:break-word; hyphens:auto; white-space:normal;\">Pratique pour les réservations et les vérifications avant la visite.<\/td>\n      <\/tr>\n    <\/tbody>\n  <\/table>\n<\/div>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Fournisseurs de logiciels"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Le Casino Barrière Trouville en bref",
+                        "description": "<p>Nous sommes situés au cœur de Trouville-sur-Mer, sur la place du Maréchal Foch, entre le port de pêche et la plage. Notre casino n’est pas seulement un espace de jeu, mais un véritable lieu de détente sur la côte normande, où l’architecture historique se marie à une offre de divertissement contemporaine. Conçu par Alexandre Durville en 1912, notre bâtiment fait depuis longtemps partie du caractère balnéaire local et demeure l’un des symboles les plus reconnaissables de la ville.<\/p>\n\n<br>\n\n<p>Nous proposons un format dans lequel chacun peut choisir son propre rythme de visite. Les amateurs de machines à sous disposent chez nous de 210 machines, dont des slots classiques, des machines modernes et du vidéo poker, avec des mises commençant à partir de 0,01 € sur certaines d’entre elles. Pour les visiteurs qui préfèrent une expérience de jeu plus stratégique et plus posée, nous proposons le blackjack, la roulette anglaise, l’Ultimate Poker et La Boule. Nous disposons également de versions électroniques de la roulette anglaise et du blackjack, une option pratique pour celles et ceux qui recherchent un jeu plus dynamique.<\/p>\n\n<br>\n\n<p>Il est juste de parler de nous non seulement comme d’un casino, mais aussi comme d’une véritable destination pour passer une soirée complète. Nous accueillons le restaurant La Villatara, avec une cuisine du terroir entre terre et mer, une ambiance de bar et une terrasse avec vue sur la mer, ouverte d’avril à octobre selon la météo. Pour les événements privés et professionnels, nous proposons des espaces privatisables, et nos clients réguliers peuvent rejoindre le programme Le Carré VIP avec les niveaux Blanc, Argent, Or et Noir. Nous développons également une expérience connectée grâce à l’application Barrière Play, qui réunit carte numérique, avantages de fidélité et services complémentaires au sein de notre écosystème.<\/p>\n\n<br>\n\n<p>Notre format convient particulièrement à celles et ceux qui souhaitent combiner le jeu, le dîner et l’atmosphère d’une station balnéaire en un seul lieu. Nous accueillons exclusivement des personnes majeures, munies d’une pièce d’identité originale valide et non interdites de jeu. Pour le confort des visiteurs, l’accessibilité PMR est également indiquée, et l’Office de tourisme de Trouville mentionne par ailleurs la présence d’un bar, d’un restaurant, de sanitaires et d’une infrastructure de vestiaire sur place.<\/p>\n\n<br>\n<style>\n  .casino-table-wrap {\n    width: 100%;\n    overflow: hidden;\n  }\n\n  .casino-table-scale {\n    width: 100%;\n    transform-origin: top left;\n  }\n\n  .casino-table {\n    width: 100%;\n    border-collapse: collapse;\n    border: 1px solid #ffffff;\n    color: #ffffff;\n    table-layout: fixed;\n  }\n\n  .casino-table th,\n  .casino-table td {\n    border: 1px solid #ffffff;\n    text-align: left;\n    padding: 8px;\n    vertical-align: top;\n  }\n\n  @media (max-width: 768px) {\n    .casino-table-scale {\n      transform: scale(0.85);\n      width: 117.65%;\n      margin-bottom: -120px;\n    }\n  }\n\n  @media (max-width: 560px) {\n    .casino-table-scale {\n      transform: scale(0.72);\n      width: 138.89%;\n      margin-bottom: -220px;\n    }\n\n    .casino-table th,\n    .casino-table td {\n      padding: 6px;\n      font-size: 13px;\n    }\n  }\n\n  @media (max-width: 420px) {\n    .casino-table-scale {\n      transform: scale(0.60);\n      width: 166.67%;\n      margin-bottom: -320px;\n    }\n\n    .casino-table th,\n    .casino-table td {\n      padding: 5px;\n      font-size: 12px;\n    }\n  }\n<\/style>\n\n<div class=\"casino-table-wrap\">\n  <div class=\"casino-table-scale\">\n    <table class=\"casino-table\">\n      <tr>\n        <th>Aspect<\/th>\n        <th>Description<\/th>\n        <th>Intérêt pour le visiteur<\/th>\n      <\/tr>\n      <tr>\n        <td>Positionnement<\/td>\n        <td>Le lieu combine jeu, restauration et ambiance balnéaire dans un même espace.<\/td>\n        <td>Permet d’organiser une soirée complète sans changer de lieu.<\/td>\n      <\/tr>\n      <tr>\n        <td>Cadre architectural<\/td>\n        <td>Le bâtiment historique signé Alexandre Durville renforce l’identité élégante et patrimoniale du site.<\/td>\n        <td>Ajoute une dimension visuelle et culturelle à la visite.<\/td>\n      <\/tr>\n      <tr>\n        <td>Style d’expérience<\/td>\n        <td>L’établissement convient aussi bien à une visite spontanée qu’à une soirée plus posée avec dîner.<\/td>\n        <td>S’adapte à différents profils de visiteurs, du curieux au client régulier.<\/td>\n      <\/tr>\n      <tr>\n        <td>Rythme de jeu<\/td>\n        <td>L’offre permet d’alterner entre jeux rapides, sessions plus stratégiques et formats électroniques.<\/td>\n        <td>Chacun peut choisir une expérience plus dynamique ou plus maîtrisée.<\/td>\n      <\/tr>\n      <tr>\n        <td>Expérience gastronomique<\/td>\n        <td>La présence de La Villatara renforce la dimension art de vivre, entre cuisine du terroir et vue sur mer.<\/td>\n        <td>Le casino devient une destination de sortie, pas seulement un lieu de jeu.<\/td>\n      <\/tr>\n      <tr>\n        <td>Clientèle visée<\/td>\n        <td>Le site peut convenir aux touristes, aux couples, aux amateurs de jeux de table et aux habitués recherchant des avantages VIP.<\/td>\n        <td>Positionnement large, utile pour une communication orientée loisirs et hospitalité.<\/td>\n      <\/tr>\n      <tr>\n        <td>Dimension événementielle<\/td>\n        <td>Le lieu ne se limite pas au divertissement individuel et accueille aussi des formats privés et professionnels.<\/td>\n        <td>Intéressant pour les marques, entreprises et organisateurs d’événements.<\/td>\n      <\/tr>\n      <tr>\n        <td>Expérience connectée<\/td>\n        <td>L’écosystème Barrière Play apporte une continuité numérique à la visite sur place.<\/td>\n        <td>Simplifie l’accès aux services et valorise la fidélisation.<\/td>\n      <\/tr>\n      <tr>\n        <td>Confort de visite<\/td>\n        <td>Les équipements sur place et l’accessibilité renforcent la qualité d’accueil.<\/td>\n        <td>La visite est plus fluide, plus pratique et adaptée à un public varié.<\/td>\n      <\/tr>\n    <\/table>\n  <\/div>\n<\/div>\n"
+                    }
+                },
+                "faq": {
+                    "title": "FAQ",
+                    "items": [
+                        {
+                            "title": "Où se trouve Casino Barrière Trouville ?",
+                            "answer": "Notre casino est situé à Trouville-sur-Mer, sur la Place du Maréchal Foch, entre le port et la plage."
+                        },
+                        {
+                            "title": "Quels jeux sont disponibles au Casino Barrière Trouville ?",
+                            "answer": "Nous proposons des machines à sous, le blackjack, la roulette anglaise, l’Ultimate Poker, la Boule, ainsi que des versions électroniques de certains jeux de table."
+                        },
+                        {
+                            "title": "Combien de machines à sous y a-t-il dans le casino ?",
+                            "answer": "Notre casino dispose de 210 machines à sous."
+                        },
+                        {
+                            "title": "Quelle est la mise minimale sur les machines à sous ?",
+                            "answer": "Sur certaines machines, la mise minimale commence à 0,01 €."
+                        },
+                        {
+                            "title": "Y a-t-il un restaurant au Casino Barrière Trouville ?",
+                            "answer": "Oui, nous disposons du restaurant La Villatara, ainsi que d’une terrasse avec vue sur la mer, ouverte en saison selon la météo."
+                        },
+                        {
+                            "title": "Le casino propose-t-il un programme de fidélité ?",
+                            "answer": "Oui, nous proposons le programme Le Carré VIP avec plusieurs niveaux d’avantages pour nos visiteurs réguliers."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
